@@ -18,7 +18,7 @@ Open to senior/staff frontend roles.
 ## Recently shipped
 
 <!-- shipped starts -->
-- [dayanalorza](https://github.com/DayanaLorza/dayanalorza) — Adding readme for gh — 2026-08-05
+- [dayanalorza](https://github.com/DayanaLorza/dayanalorza) — Updating read me — 2026-08-05
 - [kwantum](https://github.com/DayanaLorza/kwantum) — Kwantum Tech — SvelteKit 5 + GSAP site with serverless contact API on Netlify — 2026-08-05
 - [hermes-agent](https://github.com/DayanaLorza/hermes-agent) — fix(desktop): surface off-screen approvals via the jump-to-bottom control (#45853) — 2026-06-13
 - [Project-Q](https://github.com/DayanaLorza/Project-Q) — Updating App component to useState hook — 2019-07-16

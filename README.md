@@ -15,6 +15,16 @@ I’ve shipped web experiences at Apple scale; now I ship entire companies solo.
 Founder/Principal at [Kwantum Tech](https://kwantumtech.com), a one-woman agency shipping web/mobile apps and AI-native automation end-to-end; previously Apple, Cisco, Palo Alto Networks, Fanfix, and Sapient.  
 Open to senior/staff frontend roles.
 
+## Recently shipped
+
+<!-- shipped starts -->
+- [dayanalorza](https://github.com/DayanaLorza/dayanalorza) — Adding readme for gh — 2026-08-05
+- [kwantum](https://github.com/DayanaLorza/kwantum) — Kwantum Tech — SvelteKit 5 + GSAP site with serverless contact API on Netlify — 2026-08-05
+- [hermes-agent](https://github.com/DayanaLorza/hermes-agent) — fix(desktop): surface off-screen approvals via the jump-to-bottom control (#45853) — 2026-06-13
+- [Project-Q](https://github.com/DayanaLorza/Project-Q) — Updating App component to useState hook — 2019-07-16
+- [sample-code-node](https://github.com/DayanaLorza/sample-code-node) — Upgrade to latest version of SDK — 2021-03-31
+<!-- shipped ends -->
+
 ## Stack I reach for
 
 | Frontend | Backend | AI |

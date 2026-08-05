@@ -4,11 +4,8 @@
   <img src="./assets/banner.svg" alt="Dayana “Day” Lorza — senior frontend and full-stack engineer, 15+ years, Miami">
 </picture>
 
-<!-- I've shipped UI at Apple scale; now I ship entire companies solo. -->
-<!-- Fifteen-plus years of shipping interfaces — now I ship the whole company, too. -->
-<!-- I used to ship the UI at Apple; now I ship the product, platform, and automation. -->
 
-I’ve shipped web experiences at Apple scale; now I ship entire companies solo.
+Always fascinated with the latest tech. Currently building, AI employees, Web Apps and AI automation.
 
 ## Now
 
@@ -37,4 +34,4 @@ Open to senior/staff frontend roles.
 - [Kwantum](https://github.com/DayanaLorza/Kwantum) — a public window into the work behind Kwantum Tech.
 - [dayanalorza.com](https://dayanalorza.com) — my personal home on the web.
 
-[LinkedIn](https://linkedin.com/in/dayanalorza) · [Site](https://dayanalorza.com) · [Email](mailto:dayanalorza@gmail.com) · ▪
+[LinkedIn](https://linkedin.com/in/dayanalorza) · [Site](https://dayanalorza.com) ▪

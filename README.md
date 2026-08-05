@@ -20,9 +20,9 @@ Open to senior/staff frontend roles.
 <!-- shipped starts -->
 - [dayanalorza](https://github.com/DayanaLorza/dayanalorza) — Updating read me — 2026-08-05
 - [kwantum](https://github.com/DayanaLorza/kwantum) — Kwantum Tech — SvelteKit 5 + GSAP site with serverless contact API on Netlify — 2026-08-05
+- [hermes-latoya](https://github.com/DayanaLorza/hermes-latoya) — latoya: add MEMORY.md and USER.md (memory backup) — 2026-06-25
 - [hermes-agent](https://github.com/DayanaLorza/hermes-agent) — fix(desktop): surface off-screen approvals via the jump-to-bottom control (#45853) — 2026-06-13
 - [Project-Q](https://github.com/DayanaLorza/Project-Q) — Updating App component to useState hook — 2019-07-16
-- [sample-code-node](https://github.com/DayanaLorza/sample-code-node) — Upgrade to latest version of SDK — 2021-03-31
 <!-- shipped ends -->
 
 ## Stack I reach for

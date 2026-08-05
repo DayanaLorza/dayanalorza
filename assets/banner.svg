@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Dayana Lorza</title>
+  <desc id="desc">Dayana Lorza — senior frontend and full-stack engineer, 15 plus years, Miami.</desc>
+  <rect width="1280" height="320" fill="#000000"/>
+  <g fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="80" y="148" font-size="72" font-weight="700" letter-spacing="-2">Dayana “Day” Lorza</text>
+    <text x="84" y="198" fill="#e0ffe0" font-size="24" font-weight="400" letter-spacing="0.4">Senior frontend / full-stack engineer · 15+ years · Miami</text>
+  </g>
+  <rect x="84" y="232" width="54" height="3" fill="#00ff41">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>

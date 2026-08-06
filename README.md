@@ -17,11 +17,11 @@ Open to senior/staff frontend roles.
 ## Recently shipped
 
 <!-- shipped starts -->
-- [dayanalorza](https://github.com/DayanaLorza/dayanalorza) — preserve terminal text fallback — 2026-08-06
+- [dayanalorza](https://github.com/DayanaLorza/dayanalorza) — Update gh readme — 2026-08-06
 - [kwantum](https://github.com/DayanaLorza/kwantum) — Kwantum Tech — SvelteKit 5 + GSAP site with serverless contact API on Netlify — 2026-08-05
 - [hermes-latoya](https://github.com/DayanaLorza/hermes-latoya) — latoya: add MEMORY.md and USER.md (memory backup) — 2026-06-25
-- [hermes-agent](https://github.com/DayanaLorza/hermes-agent) — fix(desktop): surface off-screen approvals via the jump-to-bottom control (#45853) — 2026-06-13
 - [Project-Q](https://github.com/DayanaLorza/Project-Q) — Updating App component to useState hook — 2019-07-16
+- [project-q-prototype-migration](https://github.com/DayanaLorza/project-q-prototype-migration) — version update — 2019-10-01
 <!-- shipped ends -->
 
 ## Stack I reach for

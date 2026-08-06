@@ -1,11 +1,13 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg">
-  <img src="./assets/banner.svg" alt="Dayana “Day” Lorza — senior frontend and full-stack engineer, 15+ years, Miami">
-</picture>
+<a href="https://dayanalorza.com">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg">
+    <img src="./assets/banner.svg" alt="Dayana “Day” Lorza — senior frontend and full-stack engineer, 15+ years, Miami">
+  </picture>
+</a>
 
 
-Always fascinated with the latest tech. Currently building, AI employees, Web Apps and AI automation.
+Always fascinated by the latest tech. Currently building AI employees, web apps, and AI automation.
 
 ## Now
 

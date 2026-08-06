@@ -33,7 +33,7 @@ def latest_repositories():
     repos = github_json(
         f"/users/{OWNER}/repos?type=owner&sort=pushed&direction=desc&per_page=100"
     )
-    public_repos = [repo for repo in repos if not repo.get("private", True)]
+    public_repos = [repo for repo in repos if not repo.get("private", True) and not repo.get("fork")]
     public_repos.sort(key=lambda repo: repo.get("pushed_at") or "", reverse=True)
 
     shipped = []

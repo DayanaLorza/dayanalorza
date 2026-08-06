@@ -32,7 +32,6 @@ Open to senior/staff frontend roles.
 ## Selected work
 
 - [kwantumtech.com](https://kwantumtech.com) — the agency I’m building and shipping from.
-- [Kwantum](https://github.com/DayanaLorza/Kwantum) — a public window into the work behind Kwantum Tech.
 - [dayanalorza.com](https://dayanalorza.com) — my personal home on the web.
 
 [LinkedIn](https://linkedin.com/in/dayanalorza) · [Site](https://dayanalorza.com) ▪

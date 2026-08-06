@@ -33,5 +33,3 @@ Open to senior/staff frontend roles.
 
 - [kwantumtech.com](https://kwantumtech.com) — the agency I’m building and shipping from.
 - [dayanalorza.com](https://dayanalorza.com) — my personal home on the web.
-
-[LinkedIn](https://linkedin.com/in/dayanalorza) · [Site](https://dayanalorza.com) ▪

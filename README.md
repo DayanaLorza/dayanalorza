@@ -17,11 +17,10 @@ Open to senior/staff frontend roles.
 ## Recently shipped
 
 <!-- shipped starts -->
-- [dayanalorza](https://github.com/DayanaLorza/dayanalorza) — Update gh readme — 2026-08-06
-- [kwantum](https://github.com/DayanaLorza/kwantum) — Kwantum Tech — SvelteKit 5 + GSAP site with serverless contact API on Netlify — 2026-08-05
-- [hermes-latoya](https://github.com/DayanaLorza/hermes-latoya) — latoya: add MEMORY.md and USER.md (memory backup) — 2026-06-25
-- [Project-Q](https://github.com/DayanaLorza/Project-Q) — Updating App component to useState hook — 2019-07-16
-- [project-q-prototype-migration](https://github.com/DayanaLorza/project-q-prototype-migration) — version update — 2019-10-01
+- [dayanalorza](https://github.com/DayanaLorza/dayanalorza) — Profile README — last updated 2026-08-06
+- [kwantum](https://github.com/DayanaLorza/kwantum) — Kwantum Tech — last updated 2026-08-06
+- [hermes-latoya](https://github.com/DayanaLorza/hermes-latoya) — Hermes — last updated 2026-06-25
+- [portfolio](https://github.com/DayanaLorza/portfolio) — Portfolio — last updated 2026-08-06
 <!-- shipped ends -->
 
 ## Stack I reach for
